@@ -16,5 +16,5 @@ $ python3 -m venv myenv
 $ source myenv/bin/activate
 $ python3 main.py
 # to exit environment:
-# $ deactivate
+$ deactivate
 ```
